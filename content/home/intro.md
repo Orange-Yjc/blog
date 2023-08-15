@@ -18,8 +18,9 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hey! I'm **Yi**, a system engineer in Tokyo.
+Hey! I'm **Yi**, a System Engineer in Tokyo.<br>
+Master from Tsukuba University.
 
-Master in Tsukuba University.
+Skill Stack: Java/PHP/MySQL/Docker
 
 Check out my [CV](/about/) and blog posts below 🌈
