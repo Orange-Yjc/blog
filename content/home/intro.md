@@ -18,6 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hey! I'm **Yi**, a system engineer in Tokyo.<br>
+Hey! I'm **Yi**, a system engineer in Tokyo.
+
 Master in Tsukuba University.
+
 Check out my [CV](/about/) and blog posts below 🌈
